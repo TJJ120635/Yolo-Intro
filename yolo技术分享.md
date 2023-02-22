@@ -28,9 +28,9 @@ https://zhuanlan.zhihu.com/p/34142321
 
 - 置信度：框内物体属于某种类别的准确度，如果置信度过低则可能不属于该分类
 
-<img src="https://ithelp.ithome.com.tw/upload/images/20181110/20112540TU85addjaK.jpg" style="zoom: 50%;" />
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*OCsh4qf4lLoRAY-rlSZmJw.png" style="zoom: 80%;" />
 
-<img src="https://pic3.zhimg.com/80/v2-79617ad77b74a2dcb259add4774f25a2_720w.jpg" style="zoom:50%;" />
+<img src="https://www.researchgate.net/publication/342409316/figure/fig5/AS:905798087630850@1592970501809/b-semantic-segmentation-c-instance-segmentation-and-d-panoptic-segmentation-for.png" style="zoom: 67%;" />
 
 ​	
 
@@ -115,7 +115,7 @@ https://zhuanlan.zhihu.com/p/34142321
 
 ​	性能判断标准：IoU（DIoU、CIoU）、Precision、Recall ......
 
-​	COCO、VOC、ImageNet
+​	MS-COCO、Pascal VOC(Visual Object Classes)、ImageNet
 
 ## 2. Yolo检测框架介绍
 
@@ -179,7 +179,7 @@ https://zhuanlan.zhihu.com/p/34142321
 
 ​	使用便捷：基于四个脚本完成，有规范的readme等文档说明
 
-​	讨论度高+长期支持：在 Github 的 issue 知乎各大博客B站等都有资料，作者团队长期活跃维护更新和解答问题
+​	讨论度高+长期支持：在 GitHub 的 issue 知乎各大博客B站等都有资料，作者团队长期活跃维护更新和解答问题
 
 ​	框架稳定：Yolo系列的框架保持整体一致，只是不同单元有变化，使用起来的脚本和接口也是，对比其他五花八门的算法可能在依赖包、推理方式等都有很大不同
 
